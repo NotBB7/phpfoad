@@ -7,10 +7,10 @@
     <title>ex2</title>
 </head>
 <body>
-    
+
 <?php
 $variable1 = 0;
-$variable2 = rand(1, 100); // Génère un nombre aléatoire entre 1 et 100 inclus
+$variable2 = rand(1, 100); // Génère un nombre aléatoire entre 1 et 100
 
 while ($variable1 <= 20) {
     $resultat = $variable1 * $variable2;

@@ -10,7 +10,7 @@
 
 <?php
 $variable1 = 100; // Initialisation de la première variable à 100
-$variable2 = rand(1, 100); // Initialisation de la deuxième variable avec un nombre aléatoire entre 1 et 100 inclus
+$variable2 = rand(1, 100); // Initialisation de la deuxième variable avec un nombre aléatoire entre 1 et 100
 
 while ($variable1 > 10) { // Tant que la première variable n'est pas inférieure ou égale à 10
     $resultat = $variable1 * $variable2; // Multiplication de la première variable par la deuxième variable et stockage du résultat
